@@ -36,7 +36,7 @@ h1 {
 
 /* Small headings */
 h2 {
-    font-family:'Pt Sans', sans-serif;
+    font-family:'PT Sans', sans-serif;
     font-weight: bold;
     color: #5b569a;    
     font-size: 32px;
@@ -57,7 +57,7 @@ h3 {
 
 /* Text paragraphs */
 p {
-   font-family:'Pt Sans', sans-serif;
+   font-family:'PT Sans', sans-serif;
    font-weight: normal;
    font-size: 22px;
    line-height: 1.6;
